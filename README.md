@@ -1,3 +1,8 @@
+I'm not going to follow the project, I can't find information for it.
+If you find any information on how to program it, I would appreciate it if you let me know.
+Thank you
+
+
 # ESP32-GATEWAY
 Sobre el ESP32-GATEWAY
 Olimex ESP32 boards are supported in the official Arduino IDE for ESP32. We commit updates 
